@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Fresh new to web development, basic knowledge of html, css, javascript, jquery and bootstrap.
